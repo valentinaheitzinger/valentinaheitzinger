@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valentinaheitzinger
 - 👀 I’m interested: in being able to provide for my dog 
-- 🌱 I’m currently learning: JavaScript and stress levels control
+- 🌱 I’m currently learning: C# and stress levels control
 - 📫 How to reach me: valentinaheitzinger@gmx.at
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I feel already completely lost, navigating my 20s
